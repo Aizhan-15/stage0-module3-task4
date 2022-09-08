@@ -6,7 +6,7 @@ as possible e.g.: 2345 - suits to short. Code snippet:
 
 
         public class SettingTypes {
-            public static void main(String[] args) {
+            public sta  tic void main(String[] args) {
                  first = 10_000_000_000L;
                  second = 'a';
                  third = 5 > 9;
